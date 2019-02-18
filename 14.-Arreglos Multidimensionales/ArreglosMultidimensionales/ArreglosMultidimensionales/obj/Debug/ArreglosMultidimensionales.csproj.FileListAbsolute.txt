@@ -1,0 +1,6 @@
+C:\Users\Alfredo\Desktop\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.exe.config
+C:\Users\Alfredo\Desktop\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.exe
+C:\Users\Alfredo\Desktop\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.pdb
+C:\Users\Alfredo\Desktop\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.exe
+C:\Users\Alfredo\Desktop\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.pdb

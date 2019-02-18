@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Herencia\Herencia\bin\Debug\Herencia.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\Herencia\Herencia\bin\Debug\Herencia.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Herencia\Herencia\bin\Debug\Herencia.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Herencia\Herencia\obj\Debug\Herencia.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\8.-Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\8.-Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\8.-Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\8.-Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\8.-Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\8.-Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\4.-Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\4.-Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\4.-Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\4.-Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\4.-Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\4.-Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Alfredo\Desktop\ExcepcionesCiclos\ExcepcionesCiclos\bin\Debug\ExcepcionesCiclos.exe.config
+C:\Users\Alfredo\Desktop\ExcepcionesCiclos\ExcepcionesCiclos\bin\Debug\ExcepcionesCiclos.exe
+C:\Users\Alfredo\Desktop\ExcepcionesCiclos\ExcepcionesCiclos\bin\Debug\ExcepcionesCiclos.pdb
+C:\Users\Alfredo\Desktop\ExcepcionesCiclos\ExcepcionesCiclos\obj\Debug\ExcepcionesCiclos.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\ExcepcionesCiclos\ExcepcionesCiclos\obj\Debug\ExcepcionesCiclos.exe
+C:\Users\Alfredo\Desktop\ExcepcionesCiclos\ExcepcionesCiclos\obj\Debug\ExcepcionesCiclos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\12.-Excepciones y Ciclo While\ExcepcionesCiclos\ExcepcionesCiclos\bin\Debug\ExcepcionesCiclos.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\12.-Excepciones y Ciclo While\ExcepcionesCiclos\ExcepcionesCiclos\obj\Debug\ExcepcionesCiclos.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\12.-Excepciones y Ciclo While\ExcepcionesCiclos\ExcepcionesCiclos\obj\Debug\ExcepcionesCiclos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\12.-Excepciones y Ciclo While\ExcepcionesCiclos\ExcepcionesCiclos\bin\Debug\ExcepcionesCiclos.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\12.-Excepciones y Ciclo While\ExcepcionesCiclos\ExcepcionesCiclos\bin\Debug\ExcepcionesCiclos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\12.-Excepciones y Ciclo While\ExcepcionesCiclos\ExcepcionesCiclos\obj\Debug\ExcepcionesCiclos.csprojResolveAssemblyReference.cache

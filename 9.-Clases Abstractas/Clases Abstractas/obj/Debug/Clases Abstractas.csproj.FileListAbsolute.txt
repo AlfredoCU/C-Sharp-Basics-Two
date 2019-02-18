@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\9.-Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\9.-Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\9.-Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\9.-Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\9.-Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\9.-Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache

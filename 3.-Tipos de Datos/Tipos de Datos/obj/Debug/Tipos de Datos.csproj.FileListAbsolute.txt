@@ -1,0 +1,18 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.pdb
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe.config
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.exe
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.pdb
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.pdb
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\3.-Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csprojResolveAssemblyReference.cache

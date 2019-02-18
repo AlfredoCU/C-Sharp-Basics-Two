@@ -1,0 +1,7 @@
+C:\Users\Alfredo\Desktop\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\11.-Interfaces\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\11.-Interfaces\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\11.-Interfaces\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\11.-Interfaces\Interfaz\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\11.-Interfaces\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\11.-Interfaces\Interfaz\Interfaz\obj\Debug\Interfaz.pdb

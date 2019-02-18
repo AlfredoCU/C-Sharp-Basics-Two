@@ -1,0 +1,12 @@
+-Nombre del cliente: Alfredo Carreón Urbano
+-Tipo de regimen: 1
+-RFC del cliente: 78784ALF
+-Nombre del cliente: Alfredo Carreón Urbano
+-Tipo de regimen: 1
+-RFC del cliente: 78784ALF
+-Nombre del cliente: Alfredo Carreón Urbano
+-Tipo de regimen: 1
+-RFC del cliente: 78784ALF
+-Nombre del cliente: Alfredo Carreón Urbano
+-Tipo de regimen: 1
+-RFC del cliente: 78784ALF

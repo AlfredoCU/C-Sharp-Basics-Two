@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Condicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Condicionales\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Condicionales\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Condicionales\Condicionales\obj\Debug\Condicionales.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Condicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Condicionales\Condicionales\obj\Debug\Condicionales.pdb
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\5.-Condicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\5.-Condicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\5.-Condicionales\Condicionales\obj\Debug\Condicionales.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\5.-Condicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\5.-Condicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\5.-Condicionales\Condicionales\obj\Debug\Condicionales.pdb

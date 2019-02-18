@@ -1,0 +1,9 @@
+C:\Users\Alfredo\Desktop\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Alfredo\Desktop\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Alfredo\Desktop\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Alfredo\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Alfredo\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\13.-Arreglos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\13.-Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\13.-Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb

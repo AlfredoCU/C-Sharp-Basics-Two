@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\bin\Debug\Modularidad y Encapsulamiento.exe.config
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\bin\Debug\Modularidad y Encapsulamiento.exe
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\bin\Debug\Modularidad y Encapsulamiento.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.exe
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.pdb
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\7.-Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\bin\Debug\Modularidad y Encapsulamiento.exe.config
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\7.-Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.exe
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\7.-Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\7.-Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\bin\Debug\Modularidad y Encapsulamiento.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\7.-Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\7.-Modularidad y Encapsulamiento\Modularidad y Encapsulamiento\obj\Debug\Modularidad y Encapsulamiento.pdb

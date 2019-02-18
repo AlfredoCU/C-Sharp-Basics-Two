@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Objetos y Clases\Objetos y Clases\bin\Debug\Objetos y Clases.exe.config
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Objetos y Clases\Objetos y Clases\bin\Debug\Objetos y Clases.exe
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Objetos y Clases\Objetos y Clases\bin\Debug\Objetos y Clases.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.exe
+C:\Users\Alfredo\Documents\Visual Studio 2015\Projects\Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.pdb
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\6.-Objetos y Clases\Objetos y Clases\bin\Debug\Objetos y Clases.exe.config
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\6.-Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.exe
+C:\Users\Alfredo\Desktop\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\6.-Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\6.-Objetos y Clases\Objetos y Clases\bin\Debug\Objetos y Clases.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\6.-Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\6.-Objetos y Clases\Objetos y Clases\obj\Debug\Objetos y Clases.pdb

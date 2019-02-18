@@ -1,0 +1,12 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Entorno Visual Studio\Entorno Visual Studio\bin\Debug\Entorno Visual Studio.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\Entorno Visual Studio\Entorno Visual Studio\bin\Debug\Entorno Visual Studio.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Entorno Visual Studio\Entorno Visual Studio\bin\Debug\Entorno Visual Studio.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\Entorno Visual Studio\Entorno Visual Studio\obj\Debug\Entorno Visual Studio.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Entorno Visual Studio\Entorno Visual Studio\obj\Debug\Entorno Visual Studio.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Entorno Visual Studio\Entorno Visual Studio\obj\Debug\Entorno Visual Studio.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\2.-Entorno Visual Studio\Entorno Visual Studio\bin\Debug\Entorno Visual Studio.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\2.-Entorno Visual Studio\Entorno Visual Studio\obj\Debug\Entorno Visual Studio.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\2.-Entorno Visual Studio\Entorno Visual Studio\bin\Debug\Entorno Visual Studio.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\2.-Entorno Visual Studio\Entorno Visual Studio\bin\Debug\Entorno Visual Studio.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\2.-Entorno Visual Studio\Entorno Visual Studio\obj\Debug\Entorno Visual Studio.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\Tutorial Curso C#\2.-Entorno Visual Studio\Entorno Visual Studio\obj\Debug\Entorno Visual Studio.exe

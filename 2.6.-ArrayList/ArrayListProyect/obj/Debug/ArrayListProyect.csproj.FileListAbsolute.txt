@@ -1,0 +1,6 @@
+C:\Users\Alfredo\Desktop\ArrayListProyect\ArrayListProyect\bin\Debug\ArrayListProyect.exe.config
+C:\Users\Alfredo\Desktop\ArrayListProyect\ArrayListProyect\bin\Debug\ArrayListProyect.exe
+C:\Users\Alfredo\Desktop\ArrayListProyect\ArrayListProyect\bin\Debug\ArrayListProyect.pdb
+C:\Users\Alfredo\Desktop\ArrayListProyect\ArrayListProyect\obj\Debug\ArrayListProyect.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\ArrayListProyect\ArrayListProyect\obj\Debug\ArrayListProyect.exe
+C:\Users\Alfredo\Desktop\ArrayListProyect\ArrayListProyect\obj\Debug\ArrayListProyect.pdb

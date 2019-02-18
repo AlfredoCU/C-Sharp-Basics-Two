@@ -1,0 +1,6 @@
+C:\Users\Alfredo\Desktop\Genericos\Genericos\bin\Debug\Genericos.exe.config
+C:\Users\Alfredo\Desktop\Genericos\Genericos\bin\Debug\Genericos.exe
+C:\Users\Alfredo\Desktop\Genericos\Genericos\bin\Debug\Genericos.pdb
+C:\Users\Alfredo\Desktop\Genericos\Genericos\obj\Debug\Genericos.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Genericos\Genericos\obj\Debug\Genericos.exe
+C:\Users\Alfredo\Desktop\Genericos\Genericos\obj\Debug\Genericos.pdb

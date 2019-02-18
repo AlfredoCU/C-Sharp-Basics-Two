@@ -1,0 +1,6 @@
+C:\Users\Alfredo\Desktop\HashMapProyect\HashMapProyect\bin\Debug\HashMapProyect.exe.config
+C:\Users\Alfredo\Desktop\HashMapProyect\HashMapProyect\bin\Debug\HashMapProyect.exe
+C:\Users\Alfredo\Desktop\HashMapProyect\HashMapProyect\bin\Debug\HashMapProyect.pdb
+C:\Users\Alfredo\Desktop\HashMapProyect\HashMapProyect\obj\Debug\HashMapProyect.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\HashMapProyect\HashMapProyect\obj\Debug\HashMapProyect.exe
+C:\Users\Alfredo\Desktop\HashMapProyect\HashMapProyect\obj\Debug\HashMapProyect.pdb

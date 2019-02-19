@@ -1,0 +1,6 @@
+C:\Users\Alfredo\Desktop\Delegados\Delegados\bin\Debug\Delegados.exe.config
+C:\Users\Alfredo\Desktop\Delegados\Delegados\bin\Debug\Delegados.exe
+C:\Users\Alfredo\Desktop\Delegados\Delegados\bin\Debug\Delegados.pdb
+C:\Users\Alfredo\Desktop\Delegados\Delegados\obj\Debug\Delegados.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Delegados\Delegados\obj\Debug\Delegados.exe
+C:\Users\Alfredo\Desktop\Delegados\Delegados\obj\Debug\Delegados.pdb

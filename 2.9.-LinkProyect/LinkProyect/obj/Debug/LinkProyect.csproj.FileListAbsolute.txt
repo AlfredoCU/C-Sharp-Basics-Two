@@ -1,0 +1,12 @@
+C:\Users\Alfredo\Desktop\LinkProyect\LinkProyect\bin\Debug\LinkProyect.exe.config
+C:\Users\Alfredo\Desktop\LinkProyect\LinkProyect\bin\Debug\LinkProyect.exe
+C:\Users\Alfredo\Desktop\LinkProyect\LinkProyect\bin\Debug\LinkProyect.pdb
+C:\Users\Alfredo\Desktop\LinkProyect\LinkProyect\obj\Debug\LinkProyect.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\LinkProyect\LinkProyect\obj\Debug\LinkProyect.exe
+C:\Users\Alfredo\Desktop\LinkProyect\LinkProyect\obj\Debug\LinkProyect.pdb
+C:\Users\Alfredo\Desktop\2.9.-LinkProyect\LinkProyect\bin\Debug\LinkProyect.exe.config
+C:\Users\Alfredo\Desktop\2.9.-LinkProyect\LinkProyect\obj\Debug\LinkProyect.exe
+C:\Users\Alfredo\Desktop\2.9.-LinkProyect\LinkProyect\obj\Debug\LinkProyect.pdb
+C:\Users\Alfredo\Desktop\2.9.-LinkProyect\LinkProyect\bin\Debug\LinkProyect.exe
+C:\Users\Alfredo\Desktop\2.9.-LinkProyect\LinkProyect\bin\Debug\LinkProyect.pdb
+C:\Users\Alfredo\Desktop\2.9.-LinkProyect\LinkProyect\obj\Debug\LinkProyect.csprojResolveAssemblyReference.cache

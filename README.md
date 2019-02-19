@@ -1,3 +1,3 @@
 # C#-Basics
 
--Información básica para aprender C#.
+- Información básica para aprender C#.
